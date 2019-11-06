@@ -1,1 +1,1 @@
-# Lyft Data Challenge - September 2019
+# Lyft Data Challenge (September 2019)
